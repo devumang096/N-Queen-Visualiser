@@ -3,7 +3,8 @@
 - The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
 
 - This algorithm is designed using recursion.
-
+  
+  **<p align='center'>You can find the website live <a href="https://queen-visualiser.netlify.app">here</a></p>**
 
 The **eight queens puzzle** is the problem of placing eight chess queens
 on an `8×8` chessboard so that no two queens threaten each other.
